@@ -1,4 +1,7 @@
-## Hi there 👋
+# Carlos Leca
+PhD Industrial Engineer | Optimization | Supply Chain Analytics | Data Science
+
+I build optimization models and data-driven systems for supply chain and operations problems.
 
 <!--
 **Calp-1307/Calp-1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

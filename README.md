@@ -49,15 +49,7 @@ My work focuses on designing decision-support systems that help organizations op
 
 ### Supply Chain Network Design
 
-Optimization models for facility location, transportation planning, and network design problems.
-
-### Retail Analytics Platform
-
-Business analytics tools developed from real-world retail operations experience, including sales, inventory, purchasing, and profitability analysis.
-
-### Mathematical Optimization Library
-
-Collection of optimization models covering:
+Optimization models for facility location, transportation planning, and network design problems:
 
 * Facility Location
 * Transportation Problems
@@ -65,9 +57,11 @@ Collection of optimization models covering:
 * Inventory Planning
 * Resource Allocation
 
-### GLIC Web
-
-A Django-based retail management platform designed to modernize store operations through inventory control, purchasing management, sales tracking, and business reporting.
+### ML Personal Exploration
+* Linnear Regression
+* Logistic Regression
+* Artificial Neural Netwroks
+  
 
 ## Research Interests
 

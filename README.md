@@ -1,19 +1,93 @@
-# Carlos Leca
-PhD Industrial Engineer | Optimization | Supply Chain Analytics | Data Science
+# Hi, I'm Carlos Leca 👋
 
-I build optimization models and data-driven systems for supply chain and operations problems.
+Ph.D. in Industrial & Systems Engineering with expertise in Operations Research, Supply Chain Analytics, Optimization, and Data Science.
 
-<!--
-**Calp-1307/Calp-1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work focuses on designing decision-support systems that help organizations optimize complex operations involving production, inventory, logistics, and resource allocation.
 
-Here are some ideas to get you started:
+## Areas of Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Operations Research
+* Mathematical Optimization
+* Supply Chain Analytics
+* Network Design
+* Data Science & Machine Learning
+* Simulation
+* Business Intelligence
+* Data Engineering
+
+## Technical Skills
+
+### Programming
+
+* Python
+* SQL
+* Spark SQL
+
+### Optimization
+
+* Gurobi
+* Pyomo
+* OR-Tools
+* HiGHS
+
+### Data & Analytics
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* Power BI
+* Databricks
+
+### Cloud & Databases
+
+* AWS
+* Aurora
+* PostgreSQL
+* MySQL
+
+## Featured Projects
+
+### Supply Chain Network Design
+
+Optimization models for facility location, transportation planning, and network design problems.
+
+### Retail Analytics Platform
+
+Business analytics tools developed from real-world retail operations experience, including sales, inventory, purchasing, and profitability analysis.
+
+### Mathematical Optimization Library
+
+Collection of optimization models covering:
+
+* Facility Location
+* Transportation Problems
+* Network Flow Models
+* Inventory Planning
+* Resource Allocation
+
+### GLIC Web
+
+A Django-based retail management platform designed to modernize store operations through inventory control, purchasing management, sales tracking, and business reporting.
+
+## Research Interests
+
+* Decentralized Resource Allocation
+* Multi-Agent Systems
+* Market-Based Coordination Mechanisms
+* Supply Chain Optimization
+* AI for Decision Support
+
+## Publications & Presentations
+
+Research focused on decentralized mechanisms for resource allocation under uncertainty, presented at major Industrial Engineering and Operations Research conferences.
+
+## Connect With Me
+
+* LinkedIn: [Add LinkedIn URL]
+* Email: [Add Email]
+* GitHub: https://github.com/Calp-1307
+
+---
+
+*"Turning data into decisions through analytics, optimization, and operations research."*
+

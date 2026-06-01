@@ -47,13 +47,15 @@ My work focuses on designing decision-support systems that help organizations op
 
 ## Featured Projects
 
-### Supply Chain Network Design
+### Supply Chain Optimization
 
 Optimization models for facility location, transportation planning, and network design problems:
 
-* Facility Location
-* Transportation Problems
-* Network Flow Models
+* Facility Location.
+  - Capacitated Facility Location Problem.
+  - Set Covering.
+  - Maximum Covering
+* Multicommodity Network Design
 * Inventory Planning
 * Resource Allocation
 
@@ -77,8 +79,8 @@ Research focused on decentralized mechanisms for resource allocation under uncer
 
 ## Connect With Me
 
-* LinkedIn: [Add LinkedIn URL]
-* Email: [Add Email]
+* LinkedIn: https://www.linkedin.com/in/carlos-a-leca-perez/
+* Email: carlos.leca.1@gmail.com
 * GitHub: https://github.com/Calp-1307
 
 ---

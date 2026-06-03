@@ -1,6 +1,8 @@
-# Hi, I'm Carlos Leca 👋
+# Carlos Leca, Ph.D. in Industrial Engineering 
 
-Ph.D. in Industrial & Systems Engineering with expertise in Operations Research, Supply Chain Analytics, Optimization, and Data Science.
+## Expertise in Operations Research, Supply Chain Analytics, Optimization, and Data Science.
+
+
 
 My work focuses on designing decision-support systems that help organizations optimize complex operations involving production, inventory, logistics, and resource allocation.
 

@@ -40,8 +40,9 @@ My work focuses on designing decision-support systems that help organizations op
 
 ### Cloud & Databases
 
+* Databricks
+* Snowflake
 * AWS
-* Aurora
 * PostgreSQL
 * MySQL
 

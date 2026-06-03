@@ -43,7 +43,7 @@ My work focuses on designing decision-support systems that help organizations op
 * Databricks
 * Snowflake
 * AWS
-* PostgreSQL
+* MS ACCESS
 * MySQL
 
 ## Featured Projects
